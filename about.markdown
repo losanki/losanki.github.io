@@ -15,6 +15,6 @@ a marvelous time! So speak fools deluded in their
 ignorance. (Bhagavad Gita 16:13-15)
 
 
-Ravi Solanki is a freelance/self employed IT Consultant mostly working with opensource
-technologies.
+Ravi Solanki is a self-employed IT Consultant, mostly designing solutions
+utilizing open-source technologies, residing in Bengaluru (India).
 
