@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Ravi Solanki
-email: solankiravishankar@gmail.com
+email: solankiravishankar__at__gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://solanki.tech" # the base hostname & protocol for your site, e.g. http://example.com
@@ -30,6 +30,12 @@ github_username:  losanki
 theme: minima
 plugins:
   - jekyll-feed
+
+collections:
+  services:
+    output: true
+    permalink: /services/:name
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
