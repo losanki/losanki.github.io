@@ -3,5 +3,4 @@ layout: page
 title: Contact
 permalink: /contact/
 ---
-TODO: Form for contact
-
+You can contact me at solankiravishankar__at__gmail.com

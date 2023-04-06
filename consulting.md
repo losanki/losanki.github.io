@@ -3,14 +3,14 @@ layout: page
 title: Consulting
 permalink: /consulting/
 ---
-I am available for work related to IT such as design, development and implementation.
-There are three modes available for contract work:
+I am available for design, development and implementation.
+There are three modes available for work:
 * Per hour
 * Based on service
-* Long term contract
+* Consulting contract
 
 ### Per hour flat charges:
-Available for hourly charges of rs 1000 or $15.
+Available for hourly charges of INR 2500 or USD $30.
 
 ### Per service:  
 
@@ -22,9 +22,8 @@ Available for hourly charges of rs 1000 or $15.
 {% endfor %}
 </table>
 
-### Long term contract:
-Awailable for remote work and office visits in case the client is in Bengaluru area for 
-upto twice a week. Please contact me for charges.
+### Consulting contract:
+INR 20000 retainer + INR 1000 per hour for development work 
 
 ### Development:  
 Experience with Django, flask, Python, Vuejs, html, css, javascript  

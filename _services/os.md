@@ -1,6 +1,6 @@
 ---
 title: Linux OS
 description: Installation of Linux server Operating System
-cost: 10000
+cost: 15000
 ---
 test

@@ -1,5 +1,6 @@
 ---
-title: Mail server
-cost: 8000
+title: Application server
+description: Mail/Web/Virtualization server
+cost: 15000
 ---
-test
+Mail/Web etc
