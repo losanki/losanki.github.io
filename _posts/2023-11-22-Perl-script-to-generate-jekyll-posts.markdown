@@ -1,7 +1,7 @@
 ---
 date: 2023-10-31 15:03:07 +0530
 layout: post
-title: Perl script to generate posts in Jekyll with markdown and datetime formatting quickly
+title: Perl script to generate posts in Jekyll 
 ---
 ```
 #!/usr/bin/perl
