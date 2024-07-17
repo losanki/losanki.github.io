@@ -45,7 +45,7 @@ Worked as an IT consultant and system administrator for the Center for Nano and 
 - **Other**: Git
 - **Basic Knowledge**: HTML, CSS, and JavaScript
 
-## Education, Training, and Certifications
+## Education, Training and Certifications
 
 - Dropped out of college. Completed a course in hardware and networking from Jetking. MCP certified.
 
