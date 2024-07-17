@@ -34,6 +34,9 @@ Worked as an IT consultant and system administrator for the Center for Nano and 
 - **2021**: Developed a task management system for the organization using Python and Django. Implemented web applications on Linux servers by installing requisite software and configuration.
 - **Currently**: Contracted by JNCASR for web applications maintenance and development. Occasionally contacted for installation, upgrade, or maintenance work.
 
+### Modelicon Infotech
+- **2022**: Developed a web application frontend for Machine learning in Dash.
+
 ## Technical Profile
 
 - **Linux Servers**: Debian, Ubuntu, CentOS
