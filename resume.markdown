@@ -7,7 +7,6 @@ permalink: /resume/
 # Ravi Shankar Solanki
 
 - **Email**: [solankiravishankar@gmail.com](mailto:solankiravishankar@gmail.com)
-- **Mobile**: [9513785007](tel:+919513785007) / [9036698180](tel:+919036698180)
 - **Website**: [solankiravi.site](http://solankiravi.site)
 
 Freelance/self-employed IT consultant since 2009.
